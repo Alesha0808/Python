@@ -1,0 +1,3 @@
+import sysinfo
+
+sysinfo.systeminfo()
